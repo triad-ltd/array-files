@@ -1,6 +1,5 @@
-# Laravel Nova Field - Array Images
-A laravel nova field that will let you save your uploaded images path to your database in array format, change
-to make paths in json data relative.
+# Laravel Nova Field - Array Files
+A laravel nova field that will let you save your uploaded files path to your database in array format.
 
 # Installation
 ```
